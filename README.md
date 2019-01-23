@@ -13,4 +13,4 @@ Now, my effort and motivation goes mainly to Deep Learning models.
 
 This is a place where I share some of my applications and ideas.
 
-Keep tunned.
+Stay tunned.
