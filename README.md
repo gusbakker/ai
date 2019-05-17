@@ -1,5 +1,4 @@
-# Deep Learning
-Deep Learning models and experiments with AI
+# Deep Learning models and experiments with AI
 
 My taste for AI begun some years ago, in the academic environment, when I started building an autonomous program to draw/paint different patterns and colors in a 2D matrix, with the goal of creating interesting artistic drawings. Then I reused that code to create a version of the well-known Snake game, using the A* shortest path algorithm to create an AI that allows the snake to autonomously eat the apples and avoid every possible obstacle (walls) in the way. Unfortunately it did not solve things like the Hamiltonian path problem in which the snake avoids to overlap itself. I implemented a program that uses OpenCV library to perform face detection. Also did a Java chatbot based on AIML with the goal of making a bot that understands the context of a conversation.
 
