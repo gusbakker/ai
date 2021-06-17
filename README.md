@@ -1,3 +1,3 @@
 # Face Recognition using Transfer Learning to distinguish 2 different faces
 
-framework: Tensorflow
+framework: Tensorflow and Keras
